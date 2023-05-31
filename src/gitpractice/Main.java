@@ -9,6 +9,8 @@ public class Main {
 		String m = "maki";
 		
 		int b = 2;
+		
+		System.out.println("Ez a bugfix");
 	}
 
 }
