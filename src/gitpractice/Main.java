@@ -12,7 +12,7 @@ public class Main {
 		
 		System.out.println("ezt most a masteren csinalom es ezt nem lehet kitorolni");
 		
-		System.out.println("Ez itt most a Car ag!");
+		System.out.println("ez a rebase elott");
 	}
 
 }
