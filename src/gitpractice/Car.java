@@ -10,5 +10,7 @@ public class Car {
 		super();
 	}
 
-
+	public void kiir() {
+		System.out.println("brum brum");
+	}
 }
