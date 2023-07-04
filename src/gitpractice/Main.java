@@ -8,11 +8,7 @@ public class Main {
 		
 		int b = 2;
 
-		System.out.println("Ez a bugfix");
-		
-		System.out.println("ezt most a masteren csinalom es ezt nem lehet kitorolni");
-		
-		System.out.println("ez a rebase elott");
+		System.out.println("Ezt elcsesztem fejlesztés, de nagyon!!!");
 	}
 
 }
